@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "xeqBDLozIebUo4UWF1nqgPuzPgZOr8nWSXRs1QcVS6k=",
+  "Source": "Medals-API",
+  "BasePath": "_content/Medals-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Medals-API\\wwwroot",
+      "Source": "Medals-API",
+      "ContentRoot": "C:\\Users\\mikej\\OneDrive - Waukesha County Technical College\\Fall 2024\\Medals-API\\wwwroot\\",
+      "BasePath": "_content/Medals-API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mikej\\OneDrive - Waukesha County Technical College\\Fall 2024\\Medals-API\\wwwroot\\client.js",
+      "SourceId": "Medals-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mikej\\OneDrive - Waukesha County Technical College\\Fall 2024\\Medals-API\\wwwroot\\",
+      "BasePath": "_content/Medals-API",
+      "RelativePath": "client.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client.js"
+    },
+    {
+      "Identity": "C:\\Users\\mikej\\OneDrive - Waukesha County Technical College\\Fall 2024\\Medals-API\\wwwroot\\favicon.png",
+      "SourceId": "Medals-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mikej\\OneDrive - Waukesha County Technical College\\Fall 2024\\Medals-API\\wwwroot\\",
+      "BasePath": "_content/Medals-API",
+      "RelativePath": "favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\mikej\\OneDrive - Waukesha County Technical College\\Fall 2024\\Medals-API\\wwwroot\\index.html",
+      "SourceId": "Medals-API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mikej\\OneDrive - Waukesha County Technical College\\Fall 2024\\Medals-API\\wwwroot\\",
+      "BasePath": "_content/Medals-API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
