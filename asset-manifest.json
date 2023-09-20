@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Medals-API/static/css/main.073c9b0a.css",
+    "main.js": "/Medals-API/static/js/main.ff5c42e1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Medals-API/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Medals-API/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Medals-API/index.html",
+    "main.073c9b0a.css.map": "/Medals-API/static/css/main.073c9b0a.css.map",
+    "main.ff5c42e1.js.map": "/Medals-API/static/js/main.ff5c42e1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Medals-API/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ff5c42e1.js"
+  ]
+}
